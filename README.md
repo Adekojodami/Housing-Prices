@@ -1,4 +1,10 @@
 ## INTRODUCTION
+![](INTRO.png)
+
+
+**BACKGROUND HISTORY**
+
+![](HABSTRACT.png)
 
 **BACKGROUND HISTORY**
 
@@ -237,6 +243,10 @@ MAINROAD	TOTAL PRICE
 
 
 ## RESULTS
+
+![](HRESULT1.png)
+
+![](HRESULT2.png)
 **Results from the Housing Data Analysis**
 The results of the analysis provide insights into how various features of residential properties influence their pricing, and how different property segments can be targeted to optimize pricing strategies. Below are the key results based on the dataset provided:
 
@@ -282,7 +292,9 @@ Proximity to Main Road:
 ## DISCUSSION
 **INTERPRETATION OF RESULTS**
  
+![](HDISCUSS.png)
 
+![](HDISCUSS2.png)
 
 From the above dashboard we can deduce that the total numbers of properties purchases are 545 and the total price amount is $2,597,867,440. Hence, properties area with 6,000 ft.sq was sold most at the price of $169,235,500. Semi-furnished properties were purchased most at the price of $1,114,008,000 while furnished and unfurnished price were sold at $769,397,440 and $714,462,000 respectively. 
 
@@ -313,4 +325,6 @@ By focusing on these key factors, stakeholders in the housing market (such as re
 •	Develop Pricing Models: Use insights from the analysis to create a standardized pricing model based on features such as area, furnishing status, and luxury amenities. By implementing dynamic pricing strategies for properties in high-demand regions.
 
 •	Enhance Property Features: Consider upgrading older or less expensive properties with modern amenities such as air conditioning, basements, and additional parking spaces to increase their market value.
+
+![](HEND.png)
 
